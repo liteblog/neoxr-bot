@@ -4,6 +4,7 @@
    "description":"WhatsApp Bot (Base)",
    "main":"index.js",
    "scripts":{
+      "build": "nixpacks build . --pkgs ffmpeg",
       "start":"node ."
    },
    "engines":{
