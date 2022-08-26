@@ -1,6 +1,6 @@
 { pkgs }: {
 	deps = [
-		pkgs.nodejs-14_x
+        pkgs.nodejs-14_x
         pkgs.ffmpeg
         pkgs.libwebp
         pkgs.imagemagick
