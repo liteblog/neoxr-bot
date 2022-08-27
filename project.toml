@@ -1,5 +1,2 @@
 [[build.buildpacks]]
 uri = "heroku/nodejs"
-
-[[build.buildpacks]]
-uri = "https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz"
